@@ -8,4 +8,6 @@ Recently quantum computers have reached the level where they can outperform exis
 The goal of this project is to add a suitable quantum task to the proof-of-work scheme to give quantum computers an advantage. A task too difficult would result in the quantum computer making too many errors, thus rendering it useless. A task too easy would allow classical computers to bypass the quantum task by simulating quantum hardware, which would remove any advantage quantum computers have. The task involves running a parameterized quantum circuit and finding the top output states. The goal is to find a quantum circuit that produces a distribution of output states with peaks; the top output states should be very easy to see on a histogram.
 ![image](https://user-images.githubusercontent.com/49625502/214153488-2540c401-4174-4f67-af2f-ba61354e159d.png)
 
+The schematic of our proof-of-work system is shown below.  More detailed explanations can be found in the notebooks.
+
 <img width="788" alt="image" src="images/qPoW_schematic.png">
