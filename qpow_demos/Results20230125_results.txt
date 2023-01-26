@@ -1,0 +1,603 @@
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillmining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillmining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillmining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillmining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.855991310
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1465159096
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1409515583
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2667534561
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.591260336
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1077968341
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1882363224
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1980722632
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3340748413
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.677297758
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.114590064
+False
+mining started 
+difficulty:1
+previous_hash:
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:0
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.688423889
+Verified
+mining started 
+difficulty:1
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:1
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.808831800
+False
+mining started 
+difficulty:1
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:1
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1535697411
+False
+mining started 
+difficulty:1
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:1
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2754968434
+False
+mining started 
+difficulty:1
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:1
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1389862825
+False
+mining started 
+difficulty:1
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:1
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2648339178
+Verified
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2094803709
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1826973577
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3788724925
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.4022803728
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.723890967
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1420376272
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2215034044
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.818992618
+False
+mining started 
+difficulty:1
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:2
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.4044243904
+Verified
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.326279820
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3954549201
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1047295567
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3874095261
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3828426780
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.105039939
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.564924228
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1489420225
+False
+mining started 
+difficulty:1
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:3
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.141911349
+Verified
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.83965253
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3792767838
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2921940983
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3240132532
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1246813060
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1530832838
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3101582452
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3605883414
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2629836507
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3172110610
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.215226392
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2025505188
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3880541954
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.52493853
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1314018747
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1854753305
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2233667508
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3890373330
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2178770332
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2042413226
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3847060619
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.3850983799
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2551120593
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.8293506
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.2144909898
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1264226045
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1374365118
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.364998891
+False
+mining started 
+difficulty:1
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+block_number:4
+QC_switch:1
+
+IBM node:ibm_peekskillqPoW completed.1767390150
+Verified

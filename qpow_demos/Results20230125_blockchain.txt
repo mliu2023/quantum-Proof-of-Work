@@ -1,0 +1,99 @@
+computational time for mining a block:151.99481391906738
+computational time for mining a block:439.1921007633209
+computational time for mining a block:792.1079952716827
+computational time for mining a block:23.163102626800537
+computational time for mining a block:285.4102156162262
+computational time for mining a block:507.34510254859924
+computational time for mining a block:257.1335370540619
+computational time for mining a block:214.66528964042664
+computational time for mining a block:289.7525715827942
+computational time for mining a block:115.57686996459961
+computational time for mining a block:574.4557809829712
+computational time for mining a block:496.66289043426514
+block_number:0
+nonce:688423889
+previous_hash:0669a57a1f116f574310848fb3bdb8057e410b914f730fe970fb55c699e092ff
+transactions:Schroedinger paid Einstein 1 qBTC
+errors:10
+time for verifying a block:0.7556123733520508
+
+computational time for mining a block:434.16552114486694
+computational time for mining a block:335.5614655017853
+computational time for mining a block:290.6987271308899
+computational time for mining a block:740.9330596923828
+computational time for mining a block:373.4876940250397
+block_number:1
+nonce:2648339178
+previous_hash:06751fcc20df194c3c37794cb6602503b1c3a31882a98a2cadc0097a791a1b24
+transactions:Schroedinger paid Einstein 1 qBTC
+errors:14
+time for verifying a block:0.6926276683807373
+
+computational time for mining a block:703.8024349212646
+computational time for mining a block:311.9745695590973
+computational time for mining a block:170.61090779304504
+computational time for mining a block:142.60922718048096
+computational time for mining a block:21.656453132629395
+computational time for mining a block:23.87147808074951
+computational time for mining a block:1081.625564813614
+computational time for mining a block:912.4441337585449
+computational time for mining a block:169.06760144233704
+block_number:2
+nonce:4044243904
+previous_hash:06fb9150898d76fe2f044b1a04397535394f350102690dcc8e42defeef0e427d
+transactions:Schroedinger paid Einstein 1 qBTC
+errors:22
+time for verifying a block:0.7351930141448975
+
+computational time for mining a block:169.50304794311523
+computational time for mining a block:884.0973572731018
+computational time for mining a block:70.30138945579529
+computational time for mining a block:619.8759198188782
+computational time for mining a block:310.11434054374695
+computational time for mining a block:46.86555600166321
+computational time for mining a block:573.7854914665222
+computational time for mining a block:98.32391810417175
+computational time for mining a block:429.6887414455414
+block_number:3
+nonce:141911349
+previous_hash:0bb45c19c31ca85742e9dec84a91056e884252ee5e7c33d0da8c83e75eee03b6
+transactions:Schroedinger paid Einstein 1 qBTC
+errors:30
+time for verifying a block:0.7447218894958496
+
+computational time for mining a block:748.169406414032
+computational time for mining a block:281.87030601501465
+computational time for mining a block:306.706032037735
+computational time for mining a block:320.7380802631378
+computational time for mining a block:354.4837987422943
+computational time for mining a block:884.5825870037079
+computational time for mining a block:402.2745497226715
+computational time for mining a block:311.160772562027
+computational time for mining a block:71.12504744529724
+computational time for mining a block:95.45862174034119
+computational time for mining a block:358.64998173713684
+computational time for mining a block:1199.2885239124298
+computational time for mining a block:169.4959466457367
+computational time for mining a block:307.8174726963043
+computational time for mining a block:116.40070056915283
+computational time for mining a block:198.41795253753662
+computational time for mining a block:574.8954911231995
+computational time for mining a block:120.17358613014221
+computational time for mining a block:384.2160725593567
+computational time for mining a block:520.1547827720642
+computational time for mining a block:325.87740898132324
+computational time for mining a block:24.306127309799194
+computational time for mining a block:622.4764969348907
+computational time for mining a block:192.97749304771423
+computational time for mining a block:355.1283082962036
+computational time for mining a block:190.71145749092102
+computational time for mining a block:404.63233280181885
+computational time for mining a block:47.32082223892212
+computational time for mining a block:681.0822343826294
+block_number:4
+nonce:1767390150
+previous_hash:00f0670cbb525a9d02d62f640a8ec48298c76f48216fc07f06a0c75744aeb28e
+transactions:Schroedinger paid Einstein 1 qBTC
+errors:58
+time for verifying a block:0.6745815277099609
+
